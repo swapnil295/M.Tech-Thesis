@@ -811,7 +811,7 @@ Index,screen_name,count,classification,user_defined_location,class,mean,std_dev,
 810,RootsTale,2,None,"Vasundhara Enclave, New Delhi",1,12.03438359,120.3438359,1,
 811,Shridharuni,2,None,"Pilani, Rajasthan",2,6.636263451,26.5728145,2,
 812,utsavdas21,2,None,Gurgaon,1,27.52963997,89.58957425,4,
-813,DepremDunya,2,None,TÅrkiye,2,7887.757267,5795.615495,2677,
+813,DepremDunya,2,None,T¬Årkiye,2,7887.757267,5795.615495,2677,
 814,Fashiondeal7,2,Tourist,New Delhi,1,87.86170733,259.7273931,8,4.2
 815,gymnastdeepesh,2,Resident,"New Delhi, India",2,32.05392901,77.62226284,6,5.714285714
 816,Vishal_guptaz,2,None,"Sultanpuri, New Delhi",1,163.8868893,897.4552393,2,
@@ -1017,7 +1017,7 @@ Index,screen_name,count,classification,user_defined_location,class,mean,std_dev,
 1016,mukeshkumarj991,3,None,raila,2,6.715055634,12.5702919,0,
 1017,ramakantrao,3,Tourist,"New Delhi, India",1,34.4512084,192.2303323,2,0.028985507
 1018,scottoliverwebb,3,None,Essex ,2,1697.35244,3388.684353,328,0.101928375
-1019,_PatrickDei_,3,None,"Barcelona, Espa§a",2,447.0812304,1779.686106,4,0.046153846
+1019,_PatrickDei_,3,None,"Barcelona, Espa¬§a",2,447.0812304,1779.686106,4,0.046153846
 1020,gamer_khanna,3,Resident,"New Delhi, India",1,1.268879166,3.442212934,0,32
 1021,nisha_tarot,3,Tourist,India,2,441.8889164,2215.533435,40,0.030364372
 1022,SunilKu28391709,3,Tourist,Fatehpur sikri Agra ,2,2.497585125,4.157370305,0,
@@ -1182,7 +1182,7 @@ Index,screen_name,count,classification,user_defined_location,class,mean,std_dev,
 1181,DeepakCh9708645,2,Resident,"Karol Bagh, New Delhi",1,53.59671384,195.0840302,45,1.74611399
 1182,dheerajbhandari,2,Tourist,india,1,596.2566509,798.1225748,180,0.270042194
 1183,soulamit,2,Resident,New Delhi India,1,81.73156598,411.0158235,49,1.605577689
-1184,jischaab,2,None,Ciudad Aut¢noma de Buenos Aire,2,2187.698992,4462.086279,876,
+1184,jischaab,2,None,Ciudad Aut¬¢noma de Buenos Aire,2,2187.698992,4462.086279,876,
 1185,avibhardwaz,2,Tourist,"New Delhi, India",1,6.321196815,6.954886638,0,1.583333333
 1186,Imprince75,2,None,Rewari,2,54.20467004,51.46244607,6,
 1187,gymnastdeepesh,2,Resident,"New Delhi, India",1,32.05392901,77.62226284,6,5.714285714
